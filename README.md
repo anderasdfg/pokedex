@@ -4,7 +4,7 @@ Pokédex es una aplicación web responsive desarrollada en Vue.js. En ella puede
 
 ![](https://i.pinimg.com/originals/1b/65/bb/1b65bb4b7c8e5bbf6891ac6a38f98f7f.gif)
 
-###Tecnologías usadas
+### Tecnologías usadas
 El proyecto fue implementado haciendo uso de: 
 - [Vue.js](https://v3.vuejs.org/) como framework de desarrollo.
 - [Axios](https://axios-http.com/) para el consumo del API [PokeAPI](https://pokeapi.co/).
